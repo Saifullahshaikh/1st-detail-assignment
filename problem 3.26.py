@@ -1,0 +1,5 @@
+print('Saifullah, 18B-092-CS, A')
+print('1st Detailed Assignment, Problem 3.26')
+num_list = eval(input('Enter a list: '))
+print('The first list element', num_list[0])
+print('The last list element', num_list[-1])
